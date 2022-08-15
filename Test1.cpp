@@ -104,7 +104,7 @@ void hanoi(int n){
         }
     }
 }
-// AB AC BC
+
 int main(){
     // Function receives the number of disks on the first stack (Always assuming there will be 3)
     hanoi(4);
